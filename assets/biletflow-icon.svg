@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 140 140" role="img" aria-label="BiletFlow icon">
+  <rect width="140" height="140" rx="34" fill="#4F46E5"/>
+  <path fill="#ffffff" d="M37 42 H103 C109 42 114 47 114 53 V59 C107 59 102 64 102 70 C102 76 107 81 114 81 V87 C114 93 109 98 103 98 H37 C31 98 26 93 26 87 V81 C33 81 38 76 38 70 C38 64 33 59 26 59 V53 C26 47 31 42 37 42 Z"/>
+  <path d="M50 58 H88 C95 58 96 69 87 70 H50" fill="none" stroke="#4F46E5" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M50 82 H77" fill="none" stroke="#4F46E5" stroke-width="8" stroke-linecap="round"/>
+</svg>
